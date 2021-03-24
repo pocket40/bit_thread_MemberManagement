@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="D:\비트학원\MFC03_15\패킷 라이브러리 예광탄\패킷 라이브러리 예광탄\Packet.cpp" />
     <ClCompile Include="D:\비트학원\MFC03_15\패킷 라이브러리 예광탄\패킷 라이브러리 예광탄\Program.cpp" />
+    <ClCompile Include="Packet.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\비트학원\MFC03_15\패킷 라이브러리 예광탄\패킷 라이브러리 예광탄\Packet.h" />
+    <ClInclude Include="Packet.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

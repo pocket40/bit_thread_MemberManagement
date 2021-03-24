@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\비트학원\MFC03_15\패킷 라이브러리 예광탄\패킷 라이브러리 예광탄\Packet.cpp">
+    <ClCompile Include="D:\비트학원\MFC03_15\패킷 라이브러리 예광탄\패킷 라이브러리 예광탄\Program.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="D:\비트학원\MFC03_15\패킷 라이브러리 예광탄\패킷 라이브러리 예광탄\Program.cpp">
+    <ClCompile Include="Packet.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\비트학원\MFC03_15\패킷 라이브러리 예광탄\패킷 라이브러리 예광탄\Packet.h">
+    <ClInclude Include="Packet.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
